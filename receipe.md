@@ -79,6 +79,7 @@ end
     def all
     # Returns a list of tasks
     end
+  end
 
     class Task
 
